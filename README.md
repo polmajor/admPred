@@ -1,2 +1,6 @@
-# admPred
-Some EDA and linear regression to predict graduate admissions.
+# Graduate Admissions 
+This contains some basic EDA and regression models to predict graduate admissions.
+
+The used data can be found on Kaggle:
+
+https://www.kaggle.com/mohansacharya/graduate-admissions
